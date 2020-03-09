@@ -1,0 +1,2 @@
+Analysis of string searching algorithms 
+Naive algorithm, KMP algorithm, Boyer Moore algorithm
